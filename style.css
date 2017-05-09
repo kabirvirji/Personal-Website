@@ -620,7 +620,7 @@ b i:last-child, b i:nth-last-child(2), i:nth-last-child(3) {
 }
 
 .no-csstransitions .box-headline.rotate-2 i em {
-    -webkit-transform: scale(1);
+    -webkit-transform: scale(2);
     transform: scale(1);
 }
 
